@@ -9,26 +9,10 @@ title               : Jaylin Chen
 description         : >-
                       Hello, my name is Jaylin Chen and I am a senior at the University of 
                       Illinois Urbana-Champaign! 
-baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
+baseurl             : "/person-folder"   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : Jaylin2436chen/personal-folder  # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.linkedin.com/in/jaylin-chen/"
-     target="_blank" rel="noopener noreferrer"
-     aria-label="LinkedIn"
-     style="font-size: 2.5rem; margin: 0 12px; color: #0A66C2;">
-    <i class="fab fa-linkedin"></i>
-  </a>
-
-  <a href="https://github.com/Jaylin2436chen"
-     target="_blank" rel="noopener noreferrer"
-     aria-label="GitHub"
-     style="font-size: 2.5rem; margin: 0 12px; color: #24292f;">
-    <i class="fab fa-github"></i>
-  </a>
-</div>
 
 ### Plugins ###
 plugins:
